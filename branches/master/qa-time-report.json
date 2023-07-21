@@ -1,0 +1,583 @@
+{
+  "date" : "Fri, 21 Jul, 2023 15:38:16 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-hl7.eu.fhir.gh-ips.json",
+      "size" : 5632,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 50
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 5
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 77,
+          "length" : 88
+        },
+        {
+          "activity" : "validate",
+          "start" : 79,
+          "length" : 1707
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 81,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 114,
+          "length" : 77
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 100
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 132,
+          "length" : 3
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 140,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-ole.json",
+      "size" : 213025,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 273
+        },
+        {
+          "activity" : "loadInfo",
+          "start" : 76,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 165
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 1
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 8
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 77,
+          "length" : 1240
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 81,
+          "length" : 4
+        },
+        {
+          "activity" : "validate",
+          "start" : 81,
+          "length" : 5143
+        },
+        {
+          "activity" : "generate1",
+          "start" : 114,
+          "length" : 923
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 402
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 140,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-ips-2.json",
+      "size" : 18789,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 29
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 20
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 1
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 78,
+          "length" : 83
+        },
+        {
+          "activity" : "validate",
+          "start" : 86,
+          "length" : 4030
+        },
+        {
+          "activity" : "generate1",
+          "start" : 115,
+          "length" : 63
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 39
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-helen.json",
+      "size" : 16136,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 26
+        },
+        {
+          "activity" : "scan",
+          "start" : 76,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 20
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 2
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 78,
+          "length" : 180
+        },
+        {
+          "activity" : "validate",
+          "start" : 90,
+          "length" : 3287
+        },
+        {
+          "activity" : "generate1",
+          "start" : 115,
+          "length" : 44
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 30
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 140,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-Matilda.json",
+      "size" : 13738,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 23
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 76,
+          "length" : 1
+        },
+        {
+          "activity" : "scan",
+          "start" : 76,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 11
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 78,
+          "length" : 87
+        },
+        {
+          "activity" : "validate",
+          "start" : 93,
+          "length" : 2303
+        },
+        {
+          "activity" : "generate1",
+          "start" : 115,
+          "length" : 51
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 25
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-ips-4.json",
+      "size" : 28382,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 37
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 24
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 78,
+          "length" : 399
+        },
+        {
+          "activity" : "validate",
+          "start" : 95,
+          "length" : 8016
+        },
+        {
+          "activity" : "generate1",
+          "start" : 115,
+          "length" : 110
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 68
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-Pedro.json",
+      "size" : 29254,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 42
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 16
+        },
+        {
+          "activity" : "load",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 79,
+          "length" : 89
+        },
+        {
+          "activity" : "validate",
+          "start" : 103,
+          "length" : 5307
+        },
+        {
+          "activity" : "generate1",
+          "start" : 115,
+          "length" : 105
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 45
+        },
+        {
+          "activity" : "generateExampleZip",
+          "start" : 132,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-Cecilia.json",
+      "size" : 18112,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 27
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 12
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 79,
+          "length" : 26
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 81,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 109,
+          "length" : 1543
+        },
+        {
+          "activity" : "generate1",
+          "start" : 115,
+          "length" : 68
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 32
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 140,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-ips-1.json",
+      "size" : 21578,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 30
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 14
+        },
+        {
+          "activity" : "load",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 79,
+          "length" : 17
+        },
+        {
+          "activity" : "validate",
+          "start" : 110,
+          "length" : 65
+        },
+        {
+          "activity" : "generate1",
+          "start" : 115,
+          "length" : 62
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 34
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-maria.json",
+      "size" : 20207,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 32
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 76,
+          "length" : 1
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 16
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 79,
+          "length" : 15
+        },
+        {
+          "activity" : "validate",
+          "start" : 110,
+          "length" : 59
+        },
+        {
+          "activity" : "generate1",
+          "start" : 116,
+          "length" : 61
+        },
+        {
+          "activity" : "generate2",
+          "start" : 119,
+          "length" : 32
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-ips-3.json",
+      "size" : 21437,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 31
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 14
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 79,
+          "length" : 20
+        },
+        {
+          "activity" : "validate",
+          "start" : 110,
+          "length" : 122
+        },
+        {
+          "activity" : "generate1",
+          "start" : 116,
+          "length" : 69
+        },
+        {
+          "activity" : "generate2",
+          "start" : 120,
+          "length" : 35
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Bundle-gravitate-Alicia.json",
+      "size" : 30831,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 76,
+          "length" : 38
+        },
+        {
+          "activity" : "load",
+          "start" : 76,
+          "length" : 16
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 77,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 79,
+          "length" : 101
+        },
+        {
+          "activity" : "validate",
+          "start" : 79,
+          "length" : 1
+        },
+        {
+          "activity" : "validate",
+          "start" : 110,
+          "length" : 3513
+        },
+        {
+          "activity" : "generate1",
+          "start" : 116,
+          "length" : 106
+        },
+        {
+          "activity" : "generate2",
+          "start" : 120,
+          "length" : 44
+        }
+      ]
+    }
+  ]
+}
